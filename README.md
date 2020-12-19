@@ -2,11 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3>Apaixonado por tecnologia. Técnico em TI, formado em redes de computadores e agora cursando o 3º semestre em Gestão de T.I na UNIP. Focado em aprofundar meu conhecimento, concorri com mais de 2 mil candidatos e fui aprovado para o Bootcamp da Generation Brasil para Desenvolvimento Web Java Jr. Encontrei na tecnologia a minha forma de mudar o mundo, No tempo livre gosto de me conectar com a natureza, praticar atividade física e jogar video game. 🌴 ⚽ 🎮</h3>
 
-- 👯 I’m looking to collaborate on [Sustentart](https://sustentart.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://weslleyrocha.github.io/Portfolio](https://weslleyrocha.github.io/Portfolio)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tedgxVvs8unUsPM-zUCbe8PGQ1QszDrg/view](https://drive.google.com/file/d/1tedgxVvs8unUsPM-zUCbe8PGQ1QszDrg/view)
+- 👨‍💻 Todos os meus projetos estão disponíveis no meu [Portfolio Pessoal](https://weslleyrocha.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
