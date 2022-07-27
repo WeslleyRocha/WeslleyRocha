@@ -6,6 +6,5 @@
 
  - 🧑🏻‍💻 Todos os meus projetos estão disponíveis em meu [Portfolio Pessoal](https://weslleyrocha.github.io/Portfolio)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/weslleyrocha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/weslleyrocha/" target="blank" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/weslleyrocha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/weslleyrocha/" target="blank" height="30" width="40" /></a>
 </p>
