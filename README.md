@@ -4,7 +4,7 @@
 <h3>Apaixonado por tecnologia. Técnico em TI, formado em redes de computadores e Gestão de T.I na UNIP.<br><br> Focado em aprofundar meu conhecimento, concorri com mais de 2 mil candidatos e fui aprovado para o Bootcamp da Generation Brasil para Desenvolvimento Web Java Jr.<br><br> Encontrei na tecnologia a minha forma de mudar o mundo, No tempo livre gosto de me conectar com a natureza, praticar atividade física e jogar video game. 🌴 ⚽ 🎮</h3><br><br>
 
 
- - 👨‍💻 Todos os meus projetos estão disponíveis no meu [Portfolio Pessoal](https://weslleyrocha.github.io/Portfolio)
+ - 🧑🏻‍💻 Todos os meus projetos estão disponíveis em meu [Portfolio Pessoal](https://weslleyrocha.github.io/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
