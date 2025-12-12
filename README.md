@@ -1,10 +1,86 @@
-<h1 align="center">Oi 👋🏼, Sou o Weslley Rocha</h1>
-<br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<h3>Apaixonado por tecnologia. Técnico em TI, formado em redes de computadores e Gestão de T.I na UNIP.<br><br> Focado em aprofundar meu conhecimento, concorri com mais de 2 mil candidatos e fui aprovado para o Bootcamp da Generation Brasil para Desenvolvimento Web Java Jr.<br><br> Encontrei na tecnologia a minha forma de mudar o mundo, No tempo livre gosto de me conectar com a natureza, praticar atividade física e jogar video game. 🌴 ⚽ 🎮</h3><br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Weslley%20Rocha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Java%20Expert%20%7C%20Angular%20Master&descAlignY=51&descAlign=62" width="100%" />
+</div>
 
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      
+### 👨‍💻 O Engenheiro por trás do código
 
- - 🧑🏻‍💻 Todos os meus projetos estão disponíveis em meu [Portfolio Pessoal](https://weslleyrocha.github.io/Portfolio)
+> *"Tecnologia não é apenas sobre código, é sobre transformar a realidade."*
 
-<h3 align="left">Connect with me:</h3> <a href="https://linkedin.com/in/weslleyrocha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/weslleyrocha/" target="blank" height="30" width="40" /></a>
-</p>
+Olá! Sou um entusiasta da tecnologia com raízes sólidas em infraestrutura e coração no desenvolvimento de software. Minha jornada técnica começou com **Redes de Computadores**, evoluiu para **Gestão de TI** (UNIP) e hoje foco em criar soluções robustas e escaláveis.
+
+Fui selecionado entre **+2.000 candidatos** para o bootcamp intensivo da *Generation Brasil*, onde refinei minha habilidade de transformar café em código Java limpo.
+
+- 🔭 **Atualmente trabalhando em:** Arquiteturas resilientes com Spring Boot 3.
+- 🌱 **Estudando:** Cloud Computing e DevOps avançado.
+- ⚡ **Curiosidade:** Quando não estou codando, estou me conectando com a natureza 🌴, jogando futebol ⚽ ou explorando mundos em games 🎮.
+
+<div align="left">
+  <a href="https://linkedin.com/in/weslleyrocha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://weslleyrocha.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:weslley.nx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+   </td>
+    
+   <td width="40%" valign="top">
+      <div align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+        <br/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrocha&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&langs_count=6"/>
+      </div>
+   </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Stack Tecnológica (Arsenal)
+
+Minha caixa de ferramentas para construir aplicações de alto nível.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%208-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
+</div>
+
+---
+
+### 🐍 Minha Atividade no GitHub
+
+<div align="center">
+  <img src="https://github.com/weslleyrocha/weslleyrocha/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i></p>
+  <p>© 2025 Weslley Rocha</p>
+</div>
