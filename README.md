@@ -6,7 +6,7 @@
   <tr>
     <td width="60%" valign="top">
       
-### 👨‍💻 O Engenheiro por trás do código
+### 👨‍💻 Fullstack Developer!
 
 > *"Tecnologia não é apenas sobre código, é sobre transformar a realidade."*
 
