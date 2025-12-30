@@ -40,15 +40,12 @@ Fui selecionado entre **+2.000 candidatos** para o bootcamp intensivo da *Genera
 
 Minha caixa de ferramentas para construir aplicações de alto nível.
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL%208-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <br/>
-
   <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -60,14 +57,6 @@ Minha caixa de ferramentas para construir aplicações de alto nível.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
-</div>
-
----
-
-### 🐍 Minha Atividade no GitHub
-
-<div align="center">
-  <img src="https://github.com/weslleyrocha/weslleyrocha/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
 
 ---
