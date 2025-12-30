@@ -30,15 +30,7 @@ Fui selecionado entre **+2.000 candidatos** para o bootcamp intensivo da *Genera
   </a>
 </div>
 
-   </td>
-    
-   <td width="40%" valign="top">
-      <div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
-        <br/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyrocha&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&langs_count=6"/>
-      </div>
-   </td>
+  </td>
   </tr>
 </table>
 
